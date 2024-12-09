@@ -60,7 +60,7 @@ I am interested in everything related to technology and science.
 
 </span>
 
-## LENGUAGES
+## LANGUAGES
 <br>
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelogonza&layout=compact&theme=gotham&langs_count=8"/>
