@@ -20,9 +20,7 @@ Hi there 👋 I'm Marcelo Gonzalez
   - Frameworks to front end
   - honing my python skills
   - English
-
 <br>
-
 I am interested in everything related to technology and science.
 
 <br>
