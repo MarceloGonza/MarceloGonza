@@ -16,8 +16,10 @@ Hi there 👋 I'm Marcelo Gonzalez
 - 🔭 I’m currently studying:
   <br>
   
-	- Web Application Development
+  - Web Application Development
   - Frameworks to front end
+  - honing my python skills
+  - English
 
 <br>
 
