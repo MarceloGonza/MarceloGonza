@@ -18,7 +18,7 @@ Hi there 👋 I'm Marcelo Gonzalez
   
   - Web Application Development
   - Frameworks to front end
-  - honing my python skills
+  - WordPress
   - English
   - Ajaxs
 <br>
