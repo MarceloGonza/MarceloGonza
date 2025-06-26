@@ -21,6 +21,7 @@ Hi there 👋 I'm Marcelo Gonzalez
   - WordPress
   - English
   - Ajaxs
+  - Flutter + Dart
 <br>
 I am interested in everything related to technology and science.
 
