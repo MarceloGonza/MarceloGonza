@@ -17,8 +17,7 @@ Hi there 👋 I'm Marcelo Gonzalez
   <br>
   
   - Web Application Development
-  - Frameworks to front end
-  - WordPress
+  - Java
   - English
   - Ajaxs
   - Flutter + Dart
