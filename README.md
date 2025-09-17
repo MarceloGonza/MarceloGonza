@@ -17,9 +17,8 @@ Hi there 👋 I'm Marcelo Gonzalez
   <br>
   
   - Web Application Development
-  - Python
-  - Java
-  - Flutter + Dart
+  - React
+  - Front End skills
 <br>
 I am interested in everything related to technology and science.
 
